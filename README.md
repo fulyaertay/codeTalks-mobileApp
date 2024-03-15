@@ -1,8 +1,8 @@
 # codeTalks-mobileApp
 
 https://academy.patika.dev/tr/courses/react-native/odev_5 eğitim kapsamında ki, Codetalks mobil uygulama ödevi;
-Not 1: Uygulamanın snapshot unit testi, Jest ve Testing Library kütüphaneleri kullanılarak yapılmıştır. İlgili test case e "App.test.js" dosyası üzerinden ulaşılabilir.
-Not 2: Expo tarafından Firebase desteklenemediği için manuel ekleme işlemi yapılmıştır.
+## Not 1: Uygulamanın snapshot unit testi, Jest ve Testing Library kütüphaneleri kullanılarak yapılmıştır. İlgili test case e "App.test.js" dosyası üzerinden ulaşılabilir.
+## Not 2: Expo tarafından Firebase desteklenemediği için manuel ekleme işlemi yapılmıştır.
 ## Ekran Görüntüleri
 
 ![IMG-20240313-WA0002](https://github.com/fulyaertay/codeTalks-mobileApp/assets/56890438/e0bf6252-d23a-4578-a038-13725c9dd428)
